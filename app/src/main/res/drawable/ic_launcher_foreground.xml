@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Diagonal Arms -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M42,42 L26,26 M66,42 L82,26 M42,66 L26,86 M66,66 L82,86" />
+    <!-- Center body -->
+    <path
+        android:fillColor="#00D4FF"
+        android:pathData="M54,38 A16,16 0 1,1 54,70 A16,16 0 1,1 54,38 Z" />
+    <!-- Center camera lens -->
+    <path
+        android:fillColor="#03081E"
+        android:pathData="M54,46 A8,8 0 1,0 54,62 A8,8 0 1,0 54,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,49 A3,3 0 1,0 51,55 A3,3 0 1,0 51,49 Z" />
+    <!-- Rotor guards and rotors -->
+    <path
+        android:strokeColor="#00D4FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M15,26 L37,26 M71,26 L93,26 M15,86 L37,86 M71,86 L93,86" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,22 A4,4 0 1,1 26,30 A4,4 0 1,1 26,22 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,22 A4,4 0 1,1 82,30 A4,4 0 1,1 82,22 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,82 A4,4 0 1,1 26,90 A4,4 0 1,1 26,82 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,82 A4,4 0 1,1 82,90 A4,4 0 1,1 82,82 Z" />
+</vector>
